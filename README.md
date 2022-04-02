@@ -1,8 +1,5 @@
 ## Distance 后端程序（Server）
 
-该项目的是《初学者入门后的进阶》系列的一部分内容
-> Distance系列项目立志于快捷搭建私有IM系统
-
 ### 项目技术栈
   - Kotlin Coroutine
   - Servlet
